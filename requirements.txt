@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+requests
+gunicorn
+firebase_admin
+openai
+stripe
